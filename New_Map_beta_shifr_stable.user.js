@@ -2,7 +2,7 @@
 // @name         New_Map_beta_shifr_stable
 // @namespace    http://tampermonkey.net/
 // @version      1.20
-// @description  We don't need to disturb hf
+// @description  We don't want to disturb hf
 // @author       Artak and Endless Night
 // @match        *://pixelplanet.fun/*
 // @match        *://fuckyouarkeros.fun/*
