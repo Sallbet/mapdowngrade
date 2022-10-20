@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New_Map_beta_shif
+// @name         New_Map_beta_shifr
 // @namespace    http://tampermonkey.net/
 // @version      1.20
 // @description  We don't want to disturb hf
